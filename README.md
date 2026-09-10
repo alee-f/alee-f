@@ -30,11 +30,6 @@ Me chamo Alexandre Cesar, tenho 17 anos. Atualmente estou cursando o ensino méd
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alee-f&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alee-f&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=alee-f&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
