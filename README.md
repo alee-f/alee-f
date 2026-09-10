@@ -2,7 +2,7 @@
 
 <font size="+10">- **```Desenvolvedor Backend```**</font>
 
-Me chamo Alexandre Cesar, tenho 17 anos. Atualmente estou cursando o ensino médio, e pretendo seguir carreira na área da computação, provavelmente Ciência da Computação. Além disso, sou programador Backend
+Me chamo Alexandre Cesar, tenho 17 anos. Atualmente estou cursando o ensino médio, e pretendo seguir carreira na área da computação, provavelmente Ciência da Computação. Além disso, sou programador Backend.
 
 ## 🔧 Tecnologias
 
