@@ -1,26 +1,26 @@
 <h1 align="left">🧑🏻‍💻 Alexandre Cesar</h1>
 
-<font size="+10">- **```Desenvolvedor Backend```**</font>
+#### - **```Desenvolvedor Backend```**
 
 Me chamo Alexandre Cesar, tenho 17 anos. Atualmente estou cursando o ensino médio, e pretendo seguir carreira na área da computação, provavelmente Ciência da Computação. Além disso, sou programador Backend.
 
 ## 🔧 Tecnologias
 
-- **Backend**
+- ### **Backend**
 
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
 
-- **Banco de Dados**
+- ### **Banco de Dados**
 
     ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 
-- **Ferramentas**
+- ### **Ferramentas**
 
     ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
