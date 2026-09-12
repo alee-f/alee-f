@@ -2,7 +2,7 @@
 
 #### - **```Desenvolvedor Backend```**
 
-Me chamo Alexandre Cesar, tenho 17 anos. Atualmente ainda estou no ensino médio, mas já passo mais tempo escrevendo backend do que estudando pra prova, e pretendo cursar Ciência da Computação. Por ora, estou ganhando experiência programando.
+Me chamo Alexandre Cesar, tenho 17 anos. Atualmente ainda estou no ensino médio, mas já passo mais tempo escrevendo backend do que estudando pra prova, e pretendo cursar Ciência da Computação. Por ora, to só ganhando experiência programando.
 
 ## 🔧 Tecnologias
 
@@ -32,6 +32,12 @@ Me chamo Alexandre Cesar, tenho 17 anos. Atualmente ainda estou no ensino médio
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=alee-f&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+<picture align="left">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alee-f/alee-f/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alee-f/alee-f/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alee-f/alee-f/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 📫 Contato
 
